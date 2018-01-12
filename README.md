@@ -11,13 +11,13 @@ allprojects {
             ...
         maven { url 'https://jitpack.io' }
     }
-	}
+}
 ````
 
 ##### step2. Add the dependency
 ````
 dependencies {
-	        compile 'com.github.Chenayi:ComboButton:1.0.0'
+	  compile 'com.github.Chenayi:ComboButton:1.0.0'
 	}
 ````
 
