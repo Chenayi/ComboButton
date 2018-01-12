@@ -1,11 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
     android:gravity="center">
 
     <com.cwy.combo.ComboButton
         android:layout_width="match_parent"
-        android:layout_height="100dp" />
+        android:layout_height="100dp"
+        app:underCircleColor="#000"
+        app:centerCircleColor="#333"
+        app:topCircleColor="#666"
+        app:animDuration="500"
+        app:circleSpacing="5dp"
+        app:zoomF="1.3"/>
 </LinearLayout>

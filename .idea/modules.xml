@@ -3,8 +3,11 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ComboButton.iml" filepath="$PROJECT_DIR$/ComboButton.iml" />
+      <module fileurl="file://E:\studio_space\ComboButton\ComboButton.iml" filepath="E:\studio_space\ComboButton\ComboButton.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://E:\studio_space\ComboButton\app\app.iml" filepath="E:\studio_space\ComboButton\app\app.iml" />
       <module fileurl="file://$PROJECT_DIR$/combo/combo.iml" filepath="$PROJECT_DIR$/combo/combo.iml" />
+      <module fileurl="file://E:\studio_space\ComboButton\combo\combo.iml" filepath="E:\studio_space\ComboButton\combo\combo.iml" />
     </modules>
   </component>
 </project>

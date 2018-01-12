@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ComboButton">
+        <attr name="animDuration" format="integer" />
+        <attr name="underCircleColor" format="color" />
+        <attr name="centerCircleColor" format="color" />
+        <attr name="topCircleColor" format="color" />
+        <attr name="circleSpacing" format="dimension"/>
+        <attr name="zoomF" format="float"/>
+    </declare-styleable>
+</resources>
